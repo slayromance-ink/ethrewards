@@ -1,0 +1,2 @@
+# ethrewards
+how it works
